@@ -9,7 +9,7 @@ int main()
     }
     else
     {
-        print("Flase");
+        printf("Flase");
     }
     return 0;
 }
